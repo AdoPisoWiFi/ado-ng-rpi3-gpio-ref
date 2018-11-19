@@ -1,0 +1,25 @@
+{
+  "name": "ado-ng-rpi3-gpio-ref",
+  "description": "Angular.js 1.x module for showing GPIO pin numbering on the board",
+  "main": "./dist/ado-ng-rpi3-gpio-ref.js",
+  "authors": [
+    "AdoPisoWiFi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "adopisowifi",
+    "timer-settings"
+  ],
+  "homepage": "https://github.com/AdoPisoWiFi/ado-ng-rpi3-gpio-ref",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ado-save-config-btn": "^1.0.3",
+    "angular-bootstrap": "^2.5.0"
+  }
+}
