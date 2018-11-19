@@ -19,7 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "ado-save-config-btn": "^1.0.3",
     "angular-bootstrap": "^2.5.0"
   }
 }

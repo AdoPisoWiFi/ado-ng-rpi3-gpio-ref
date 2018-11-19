@@ -1,6 +1,6 @@
 {
   "name": "@adopisowifi/ng-rpi3-gpio-ref",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular.js 1.x module for showing GPIO pin numbering on the board",
   "main": "dist/ado-ng-rpi3-gpio-ref.js",
   "scripts": {
@@ -27,7 +27,6 @@
     "gulp-concat": "^2.6.1"
   },
   "dependencies": {
-    "@adopisowifi/save-config-btn": "^1.0.10",
     "angular-ui-bootstrap": "^2.5.6"
   }
 }
